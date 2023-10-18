@@ -99,11 +99,12 @@ the range of the int datatype.
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
-
+The value is incorrect as it is 0
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
-
+There was an error in the formula used (no bracket when using 1/2)
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+We replace the "1/2" with 0.5
