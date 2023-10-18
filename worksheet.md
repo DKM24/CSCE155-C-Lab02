@@ -7,7 +7,7 @@ Name(s) and Login(s):
 
 
 1. Dennis Ritchie, the creator of the C programming language,
-was born on September 9th, 1941.  If he were still alive,
+was born on September 9th, 1985.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 Please Enter Your First Name (no spaces) followed by ENTER: DennisRichie
@@ -22,8 +22,14 @@ Hello, DennisRichie.  You are 38 years, 5 weeks, and 4 days old today
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
-December 30th, 1950.  How old is he today?
-
+December 30th, 1990.  How old is he today?
+Please Enter Your First Name (no spaces) followed by ENTER: BjarneStroustrup
+Enter the year in which you were born: 1990
+Enter the month in which you were born (1-12): 12
+Enter the day of the month in which you were born (1-31): 30
+Today is 2023/10/18
+Your birthday was 1990/12/30
+Hello, BjarneStroustrup.  You are 32 years, 41 weeks, and 5 days old today
 
 
 
