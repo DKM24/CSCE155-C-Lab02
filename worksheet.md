@@ -69,11 +69,19 @@ results you observe.
 the exchange amounts for the following inputs:
 
   a) $250.25
+Exchange tax is 25.02
+GBP is 88.96
+Yen is 14374.99
 
   b) $1,000.52
+Exchange tax is 100.05
+GBP is 355.68
+Yen is 57472.37
 
   c) $968,410.12
-
+Exchange tax is 96.80
+GBP is 344.12
+Yen is 55604.34
 
 
 6. Suppose that you had used only `int` types
