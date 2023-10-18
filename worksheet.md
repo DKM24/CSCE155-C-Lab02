@@ -79,9 +79,9 @@ GBP is 355.68
 Yen is 57472.37
 
   c) $968,410.12
-Exchange tax is 96.80
-GBP is 344.12
-Yen is 55604.34
+Exchange tax is 96841.02
+GBP is 344269.81
+Yen is 55627900.00
 
 
 6. Suppose that you had used only `int` types
