@@ -89,6 +89,8 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
+We won't be able to convert it because the value of the national debt and its subsequent conversions lie outside
+the range of the int datatype. 
 
 
 
