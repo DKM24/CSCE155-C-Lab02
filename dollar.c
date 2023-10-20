@@ -16,7 +16,3 @@ int main() {
     printf("Yen is %0.2f\n",yen);
 
 }
-
-
-
-
